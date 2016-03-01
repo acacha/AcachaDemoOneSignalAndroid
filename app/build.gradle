@@ -9,8 +9,8 @@ android {
 
         // TODO: Please update the Google Project number and OneSignal Id below to yours.
         manifestPlaceholders = [manifestApplicationId: "${applicationId}",
-                                onesignal_app_id: "b2f7f966-d8cc-11e4-bed1-df8f05be55ba",
-                                onesignal_google_project_number: "703322744261"]
+                                onesignal_app_id: "29ef6b21-7909-4f68-ad94-679a6ab5ad7e",
+                                onesignal_google_project_number: "456818713847"]
 
         minSdkVersion 10
         targetSdkVersion 23
